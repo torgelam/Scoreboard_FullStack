@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color: darkslateblue;
+}
+
+button {
+    background-color: darkslateblue ;
+    border: white solid;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scores{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#homescore {
+    text-align: center;
+    color: #F94F6D;
+    background-color: black;
+    margin: 0;
+    padding: 15px 30px;
+    font-size: 200%;
+}
+
+#guestscore {
+    text-align: center;
+    color: #F94F6D;
+    background-color: black;
+    margin: 0;
+    padding: 15px 30px;
+    font-size: 200%;
+}

@@ -24,7 +24,7 @@ h3{
 
 #homescore {
     text-align: center;
-    color: #F94F6D;
+    color: blue;
     background-color: black;
     margin: 0;
     padding: 15px 30px;
@@ -33,7 +33,7 @@ h3{
 
 #guestscore {
     text-align: center;
-    color: #F94F6D;
+    color: blue;
     background-color: black;
     margin: 0;
     padding: 15px 30px;
